@@ -30,6 +30,7 @@ install
 python3
 
 oqs needs to be installed
+leveldb1.23 not working on mac 
 
 make a venv
 
@@ -37,7 +38,8 @@ source pqcoin-python-env/bin/activate
 
 Install Libaries (MAC)
 ```bash
-$ pip install cryptography eth-keys pycryptodome
+$ brew install leveldb
+$ pip install cryptography eth-keys pycryptodome plyvel
 ```
 
 ## Usage
