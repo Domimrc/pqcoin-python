@@ -1,0 +1,7 @@
+mempool_leveldb/
+network_config_leveldb/
+pqcoin-python-env/
+
+blockchain.json
+netowork_config.db
+*.code-workspace
