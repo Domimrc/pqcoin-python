@@ -5,3 +5,6 @@ pqcoin-python-env/
 blockchain.json
 netowork_config.db
 *.code-workspace
+env
+env
+env/

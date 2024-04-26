@@ -38,8 +38,9 @@ source pqcoin-python-env/bin/activate
 
 Install Libaries (MAC)
 ```bash
+$ sudo apt-get install libleveldb-dev
 $ brew install leveldb
-$ pip install cryptography eth-keys pycryptodome plyvel
+$ pip install cryptography eth-keys pycryptodome plyvel flask rlp
 ```
 
 ## Usage
